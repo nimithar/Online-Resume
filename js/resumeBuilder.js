@@ -41,11 +41,11 @@ var bio = {
     "name": "Nimitha Ramesh",
     "role": "Software Developer",
     "contacts": {
-        "mobile": "6506565634",
-        "email": "nimitha.r.ramesh@gmail.com",
+        "mobile": "650 555 5555",
+        "email": "abc@abc.com",
         "github": "nimithar",
-        "twitter": "@nimitha_ramesh",
-        "location": "Mountain View"
+        "twitter": "@twitter_handle",
+        "location": "San Francisco"
     },
     "welcomeMsg": "Welcome to my page!",
     "skills": ["Java", "Javascript", "Android", "Web Development", "C", "C++", "Swift", "HTML", "CSS", "Databases"],
