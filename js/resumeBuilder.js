@@ -2,6 +2,13 @@
 /* Formatted data */
 var work = {
     "jobs": [{
+        "employer": "Trimian Inc.",
+        "title": "Software Development Intern",
+        "location": "Sunnyvale, CA",
+        "dates": "August 2016 - Present",
+        "description": "Trimian is a company dedicated to creating new tools for professionals on the go.",
+        "url": "https://www.trimian.com",
+    }, {
         "employer": "Ernst & Young",
         "title": "Advanced Tax Analyst",
         "location": "Bangalore, India",
@@ -58,7 +65,7 @@ var education = {
         "location": "San Francisco, CA",
         "degree": "Bachelors of Science",
         "majors": ["Computer Science"],
-        "dates": "Jan 2015 - May 2017",
+        "dates": "Jan 2015 - Dec 2018",
         "url": "http://www.sfsu.edu/"
     }, {
         "name": "Mount Carmel College",
