@@ -55,7 +55,7 @@ var bio = {
         "location": "San Francisco"
     },
     "welcomeMsg": "Welcome to my page!",
-    "skills": ["Java", "Javascript", "Android", "Web Development", "C", "C++", "Swift", "HTML", "CSS", "Databases"],
+    "skills": ["Java", "Javascript", "Node.js", "AngularJS", "Android", "Web Development", "Python", "Selenium", "C", "C++", "Swift", "HTML", "CSS", "Databases"],
     "biopic": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/074/002/0e99008.jpg"
 }
 
